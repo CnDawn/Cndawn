@@ -1,22 +1,22 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://blog.ideaopen.cn/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小简提醒你要天天开心哦!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小孙提醒你要天天开心哦!&center=true&size=27">
   </a>
 </h1>
 <br>
 
 <!-- 个人资料徽标 -->
 <div align="center">
-  <a href="https://ideaopen.cn/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
+  <a href="https://www.iuhero.com"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
   <a href="https://gitee.com/janyork/"><img src="https://img.shields.io/badge/Gitee-%E7%A0%81%E4%BA%91-red"></a>&emsp;
   <a href="https://www.cnblogs.com/JanYork/"><img src="https://img.shields.io/badge/cnblogs-%E5%8D%9A%E5%AE%A2%E5%9B%AD-orange"></a>&emsp;
-  <a href="http://wpa.qq.com/msgrd?v=3&uin=747945307&site=qq&menu=yes"><img src="https://img.shields.io/badge/QQ-%E8%81%94%E7%B3%BB-brightgreen"></a>&emsp;
+  <a href="http://wpa.qq.com/msgrd?v=3&uin=359223777&site=qq&menu=yes"><img src="https://img.shields.io/badge/QQ-%E8%81%94%E7%B3%BB-brightgreen"></a>&emsp;
   <a href="https://blog.csdn.net/qq_60750453"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
-<!--   <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp; -->
-<!--   <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp; -->
+  <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
+  <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 <!-- 访客数统计徽标 -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=JanYork" alt="访客统计" /></div>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Cndawn" alt="访客统计" /></div>
 
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/JanYork/JanYork/contribution-snake/github-contribution-grid-snake.svg" /></div>
@@ -30,12 +30,12 @@
 <p>&emsp;&emsp;我开始的刚刚好，不算太迟，也不算太早。喜欢敲打繁华和浪漫，沉醉于须弥之中，我的故事还在慢慢继续......</p>
 
 <!-- 比较好的开源项目卡片 -->
-<div align="center">
+<!--<div align="center">
 <a href="https://github.com/JanYork/Library-">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JanYork&repo=Library-&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 <a href="https://github.com/JanYork/JanYork">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JanYork&repo=JanYork&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-</div>
+</div>-->
 
 💪 正在学习: 
 
@@ -109,12 +109,12 @@
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
 
 <!-- GitHub奖杯🏆 -->
-<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=JanYork&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
-<br>
+<!--<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=JanYork&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
+<br>-->
 
 <!-- GitHub数据统计 -->
 <div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=JanYork&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Cndawn&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanYork&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 <br>
@@ -124,15 +124,8 @@
 <tr>
 <td valign="top">    
 
-### 🤹‍♀️ <a href="https://blog.ideaopen.cn/" target="_blank">Recent Blog</a>
-  
-<!-- START_SECTION:blog -->
-<!-- * <a href='https://sunguoqi.com/posts/20220225.html' target='_blank'>人生21岁，版本更新日志！</a> - 2022-02-25
-* <a href='https://sunguoqi.com/posts/fiddler.html' target='_blank'>我终于学废用Fiddler抓包了！</a> - 2022-01-24
-* <a href='https://sunguoqi.com/posts/4243.html' target='_blank'>零基础快速上手云服务器</a> - 2022-01-09
-* <a href='https://sunguoqi.com/posts/33414.html' target='_blank'>给GitHub首页添加一个有趣的贪吃蛇小动画</a> - 2022-01-08
-* <a href='https://sunguoqi.com/posts/cuiqingcai.html' target='_blank'>21年终总结&&关于我自学爬虫的点滴经历</a> - 2021-12-31 -->
-<!-- END_SECTION:blog -->
+### 🤹‍♀️ <a href="https://www.iuhero.com/" target="_blank">Recent Blog</a>
+ 
   
 </td>
     
