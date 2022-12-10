@@ -9,12 +9,12 @@
 <!-- 个人资料徽标 -->
 <div align="center">
   <a href="https://www.iuhero.com"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
-  <a href="https://gitee.com/janyork/"><img src="https://img.shields.io/badge/Gitee-%E7%A0%81%E4%BA%91-red"></a>&emsp;
-  <a href="https://www.cnblogs.com/JanYork/"><img src="https://img.shields.io/badge/cnblogs-%E5%8D%9A%E5%AE%A2%E5%9B%AD-orange"></a>&emsp;
-  <a href="http://wpa.qq.com/msgrd?v=3&uin=359223777&site=qq&menu=yes"><img src="https://img.shields.io/badge/QQ-%E8%81%94%E7%B3%BB-brightgreen"></a>&emsp;
-  <a href="https://blog.csdn.net/qq_60750453"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
-  <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
-  <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
+  <a href="https://gitee.com/owndawn/"><img src="https://img.shields.io/badge/Gitee-%E7%A0%81%E4%BA%91-red"></a>&emsp;
+  <a href="https://www.cnblogs.com/CnDawn/"><img src="https://img.shields.io/badge/cnblogs-%E5%8D%9A%E5%AE%A2%E5%9B%AD-orange"></a>&emsp;
+  <a href="http://wpa.qq.com/msgrd?v=3&uin=334066665&site=qq&menu=yes"><img src="https://img.shields.io/badge/QQ-%E8%81%94%E7%B3%BB-brightgreen"></a>&emsp;
+  <a href="https://blog.csdn.net/m0_61307402"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
+  <a href="https://space.bilibili.com/1361359223/"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
+  <a href="https://www.zhihu.com/people/dawns55/"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 <!-- 访客数统计徽标 -->
   <img src="https://visitor-badge.glitch.me/badge?page_id=Cndawn" alt="访客统计" /></div>
 
