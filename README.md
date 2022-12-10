@@ -19,7 +19,7 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=Cndawn" alt="访客统计" /></div>
 
 <!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/JanYork/JanYork/contribution-snake/github-contribution-grid-snake.svg" /></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/JanYork/JanYork/contribution-snake/github-contribution-grid-snake.svg](https://cdn.oown.cn/gh/cndawn/cndawn/github-contribution-grid-snake.svg" /></div>
 
 
 #  🙋 Hi！Welcome to my world.
